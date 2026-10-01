@@ -1,0 +1,8 @@
+# Rojo / Studio temporary build files and locks
+.rojo/
+build/
+*.rbxlx.lock
+
+# OS metadata
+.DS_Store
+Thumbs.db
